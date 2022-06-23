@@ -7,3 +7,5 @@ The script created, has an input of a path and a profile, given those it creates
 Afterwards the script creates an Excel file with all the intersection and non-intersection points and the measurements of the distances of the top Level of the two tunnels
 
 In the end a PowerBI dashboard is created combining the 3D Model along with the data created with Dynamo
+
+The dashboard, Dynamo script can be found as a separate file on the repository
